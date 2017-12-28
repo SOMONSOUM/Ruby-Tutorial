@@ -16,7 +16,11 @@
     <SUITE FILE_PATH="coverage/Ruby@function.coverage" NAME="function Coverage Results" MODIFIED="1514236310340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@HelloWorl.coverage" NAME="HelloWorl Coverage Results" MODIFIED="1514222484290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@HelloWorldMethod.coverage" NAME="HelloWorldMethod Coverage Results" MODIFIED="1514222624436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/Ruby@user.coverage" NAME="person Coverage Results" MODIFIED="1514496759809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
+=======
+    <SUITE FILE_PATH="coverage/Ruby@user.coverage" NAME="person Coverage Results" MODIFIED="1514494518527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
+>>>>>>> b9348db77433529ed4c52a961ac73accef23e8bf
     <SUITE FILE_PATH="coverage/Ruby@userinpu.coverage" NAME="userinpu Coverage Results" MODIFIED="1514227337481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@number.coverage" NAME="number Coverage Results" MODIFIED="1514233948134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@branching.coverage" NAME="branching Coverage Results" MODIFIED="1514236731371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
@@ -106,8 +110,13 @@
       <file leaf-file-name="person.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/person.rb">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="649">
               <caret line="99" column="26" lean-forward="false" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
+=======
+            <state relative-caret-position="547">
+              <caret line="61" column="37" lean-forward="false" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+>>>>>>> b9348db77433529ed4c52a961ac73accef23e8bf
               <folding />
             </state>
           </provider>
@@ -301,7 +310,11 @@
       <option name="presentableId" value="Default" />
       <updated>1514219776612</updated>
       <workItem from="1514219778972" duration="12902000" />
+<<<<<<< HEAD
       <workItem from="1514488616533" duration="7703000" />
+=======
+      <workItem from="1514488616533" duration="5549000" />
+>>>>>>> b9348db77433529ed4c52a961ac73accef23e8bf
     </task>
     <task id="LOCAL-00001" summary="Add function file and number file">
       <created>1514234234666</created>
@@ -314,7 +327,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="20605000" />
+=======
+    <option name="totallyTimeSpent" value="18451000" />
+>>>>>>> b9348db77433529ed4c52a961ac73accef23e8bf
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -489,8 +506,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/person.rb">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="649">
           <caret line="99" column="26" lean-forward="false" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
+=======
+        <state relative-caret-position="547">
+          <caret line="61" column="37" lean-forward="false" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+>>>>>>> b9348db77433529ed4c52a961ac73accef23e8bf
           <folding />
         </state>
       </provider>
